@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "name": "test-releases-ci",
+  "description": "contains a list of packages which are considered essential for building packages in ci platform",
+  "license": "MIT"
+}
