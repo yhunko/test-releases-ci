@@ -3,8 +3,5 @@
   "name": "test-releases-ci",
   "private": true,
   "description": "contains a list of packages which are considered essential for building packages in ci platform",
-  "license": "MIT",
-  "devDependencies": {
-    "@semantic-release/git": "^10.0.1"
-  }
+  "license": "MIT"
 }

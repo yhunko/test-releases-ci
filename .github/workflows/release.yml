@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 'lts/*'
       - name: Install additional release dependencies
-        run: npm i -D @semantic-release/git
+        run: npm ci -D @semantic-release/git
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
