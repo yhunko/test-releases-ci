@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0-develop.1",
+  "version": "1.3.0-develop.2",
   "name": "test-releases-ci",
   "private": true,
   "description": "contains a list of packages which are considered essential for building packages in ci platform",
