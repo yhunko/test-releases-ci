@@ -1,10 +1,6 @@
 {
   "branches": [
     {
-      "name": "develop",
-      "prerelease": true
-    },
-    {
       "name": "stage",
       "prerelease": "rc"
     },
